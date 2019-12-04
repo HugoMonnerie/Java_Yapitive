@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Yapitive.iml" filepath="$PROJECT_DIR$/.idea/Java_Yapitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageFilter.iml" filepath="$PROJECT_DIR$/.idea/modules/imageFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageFilter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imageFilter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageFilter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/imageFilter.test.iml" />
+    </modules>
+  </component>
+</project>

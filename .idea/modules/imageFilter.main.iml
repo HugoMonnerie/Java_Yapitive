@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="imageFilter:main" external.linked.project.path="$MODULE_DIR$/../../imageFilter" external.root.project.path="$MODULE_DIR$/../../imageFilter" external.system.id="GRADLE" external.system.module.group="fr.Yapititive" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../imageFilter" rootProjectPath="$MODULE_DIR$/../../imageFilter" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../imageFilter/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../imageFilter/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../imageFilter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../imageFilter/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
